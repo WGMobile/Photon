@@ -1,0 +1,18 @@
+<map id="platform_definitions" name="platform_definitions">
+<area shape="rect" id="node4" href="dir_a6c83d748472ce4644071a57a6554183.html" title="android" alt="" coords="1307,64,1379,112"/>
+<area shape="rect" id="node5" href="dir_5b30a1810d41fb7d7e442218f66e2284.html" title="blackberry" alt="" coords="1211,64,1283,112"/>
+<area shape="rect" id="node6" href="dir_64fa681f43d7510cb9acf7b97c577b22.html" title="emscripten" alt="" coords="1112,64,1187,112"/>
+<area shape="rect" id="node7" href="dir_0004312221d4b399bceb2d5439224f9a.html" title="imac" alt="" coords="1016,64,1088,112"/>
+<area shape="rect" id="node8" href="dir_3773d02424dac3c02d747ea14b866f0d.html" title="iphone" alt="" coords="920,64,992,112"/>
+<area shape="rect" id="node9" href="dir_c9985c3571f7b2ff6216b779f4ca8aa8.html" title="linux" alt="" coords="824,64,896,112"/>
+<area shape="rect" id="node10" href="dir_af43a6feaa64414c015ef386b56ee11b.html" title="marmalade" alt="" coords="725,64,800,112"/>
+<area shape="rect" id="node11" href="dir_768eefe083d8fb892f4d0f08c6db6fdc.html" title="ps3" alt="" coords="629,64,701,112"/>
+<area shape="rect" id="node12" href="dir_35b098129b7f4a1c2589c39084817c32.html" title="ps4" alt="" coords="533,64,605,112"/>
+<area shape="rect" id="node13" href="dir_06b967b9226bc5c6c4fb2842481ec440.html" title="psvita" alt="" coords="437,64,509,112"/>
+<area shape="rect" id="node14" href="dir_57ba63d2dda6c8a9b4da09f1da978396.html" title="switch" alt="" coords="341,64,413,112"/>
+<area shape="rect" id="node15" href="dir_48ca576d5a36280a1988a742e8d17baa.html" title="windows" alt="" coords="245,64,317,112"/>
+<area shape="rect" id="node16" href="dir_a71615a90920fb881c968f8055fb0b46.html" title="windowsStore" alt="" coords="133,64,221,112"/>
+<area shape="rect" id="node17" href="dir_10f80be30f52a06e0a6fb9f5bd18c643.html" title="xb1" alt="" coords="37,64,109,112"/>
+<area shape="rect" id="graph3" href="dir_0ac1be9fca16fe4b9e380504d1c69044.html" alt="" coords="27,53,1528,123"/>
+<area shape="rect" id="graph2" href="dir_94d3429e598f13337f362e95836c8c20.html" title="inc" alt="" coords="16,16,1539,133"/>
+</map>

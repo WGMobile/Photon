@@ -1,0 +1,7 @@
+<map id="Protocol" name="Protocol">
+<area shape="rect" id="node3" href="$a00072.html" title="TCP" alt="" coords="5,83,48,111"/>
+<area shape="rect" id="node5" href="$a00076.html" title="UDP" alt="" coords="72,83,117,111"/>
+<area shape="rect" id="node7" href="$a00077.html" title="UDPAlternative" alt="" coords="141,83,235,111"/>
+<area shape="rect" id="node9" href="$a00081.html" title="WS" alt="" coords="259,83,296,111"/>
+<area shape="rect" id="node11" href="$a00082.html" title="WSS" alt="" coords="320,83,365,111"/>
+</map>
