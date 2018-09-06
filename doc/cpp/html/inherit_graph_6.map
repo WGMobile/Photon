@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$a00064.html" title="Protocol" alt="" coords="5,106,67,134"/>
-<area shape="rect" id="node3" href="$a00072.html" title="TCP" alt="" coords="141,5,184,33"/>
-<area shape="rect" id="node5" href="$a00076.html" title="UDP" alt="" coords="140,55,185,83"/>
-<area shape="rect" id="node7" href="$a00077.html" title="UDPAlternative" alt="" coords="116,106,209,134"/>
-<area shape="rect" id="node9" href="$a00081.html" title="WS" alt="" coords="144,157,181,185"/>
-<area shape="rect" id="node11" href="$a00082.html" title="WSS" alt="" coords="140,207,185,235"/>
-</map>
